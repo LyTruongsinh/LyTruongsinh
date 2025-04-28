@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flaptrinhcuocsong.com%2Fanh-vui-ve-lap-trinh-vien.html&psig=AOvVaw3160bgWKdCAd-ZurQwHx6f&ust=1745896105425000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDdjJ3f-YwDFQAAAAAdAAAAABAE" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LyTruongsinh&icon=0&color=0)](https://visitcount.itsvg.in)
