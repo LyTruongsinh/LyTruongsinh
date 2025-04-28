@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/db6933de-019d-45e9-b32a-4c764384a925)
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hung.do.105802/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hdo10120/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/hdo10120/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/30107894/%c4%90%e1%bb%97-tu%e1%ba%a5n-h%c6%b0ng) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@hungdo9790) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@duongdiep4813) 
 
@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flaptrinhcuocsong.com%2Fanh-vui-ve-lap-trinh-vien.html&psig=AOvVaw3160bgWKdCAd-ZurQwHx6f&ust=1745896105425000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDdjJ3f-YwDFQAAAAAdAAAAABAE" width="512px"/>
+<img src="https://laptrinhcuocsong.com/images/anh-vui-lap-trinh-vien-2.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LyTruongsinh&icon=0&color=0)](https://visitcount.itsvg.in)
