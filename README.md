@@ -5,7 +5,7 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LyTruongsinh&show_icons=true&theme=radical)
 ## 💡 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyTruongsinh&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyTruongsinh&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ## 🏆GitHub Trophies
